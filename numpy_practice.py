@@ -63,6 +63,7 @@ print(arr[arr > 20]) # utilise ce résultat pour garder uniquement les élément
 print(arr[arr % 2 == 0])
 
 """
+#exercice
 
 arr = np.arange(1,21)
 resh = arr.reshape(4, 5)
